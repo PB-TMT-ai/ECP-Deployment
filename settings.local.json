@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \":*)",
+      "Bash(wc -l \"D:/ECP design\"/*.py \"D:/ECP design/tools\"/*.py)",
+      "Bash(du -sh \"D:/ECP design\"/*)",
+      "Bash(sed 's/_Fe550.png//')",
+      "Bash(python tools/parse_ecp_prices.py \"excel files/Book 70.xlsx\" \"17th March 2026\")"
+    ]
+  }
+}
