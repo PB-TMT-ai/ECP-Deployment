@@ -7,7 +7,7 @@ exports PNGs per state, and saves them locally.
 
 ## Project Structure
 ```
-D:/ECP design/
+ECP-Deployment/
   CLAUDE.md                          -- This file
   tools/
     parse_ecp_prices.py              -- Excel parser (openpyxl), outputs JSON
@@ -84,5 +84,5 @@ Key rows (same across all regions):
 See `workflows/update_ecp_prices.md` for the complete mapping.
 
 ## Python Environment
-- Python 3.14 at `C:\Users\2750834\AppData\Local\Python\pythoncore-3.14-64\`
-- openpyxl installed
+- Python 3.x with openpyxl installed
+- Install dependencies: `pip install openpyxl`

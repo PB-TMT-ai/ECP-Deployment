@@ -4,7 +4,7 @@
 Update JSW One TMT ECP price creatives in Canva with new prices, discount percentages, and effective dates after each price announcement. Export updated designs and organize into dated folders.
 
 ## Required Inputs
-1. **Excel file** placed in `D:/ECP design/` with updated prices (see format below)
+1. **Excel file** placed in `ECP-Deployment/` with updated prices (see format below)
 2. User confirmation to proceed with the update
 
 ## Source Designs (Templates — DO NOT EDIT DIRECTLY)
@@ -135,7 +135,7 @@ curl -L -o "{StateName}_Fe550.png" "<canva_export_download_url>"
 
 **Local:**
 ```
-D:/ECP design/ECP_{date}/
+ECP-Deployment/ECP_{date}/
   ├── Fe 550/
   │   ├── Bihar_Fe550.png
   │   ├── Jharkhand_Fe550.png
@@ -165,4 +165,4 @@ Download each exported PNG using the download URLs from Step 6.
 
 ## Output
 - Updated designs in Canva (in dated folder)
-- PNG files locally in `D:/ECP design/ECP_{date}/`
+- PNG files locally in `ECP-Deployment/ECP_{date}/`
