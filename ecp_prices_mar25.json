@@ -1,0 +1,219 @@
+{
+  "source_file": "ECP_Analysis.xlsx",
+  "source_tab": "ECP Mar 25",
+  "effective_date": "5th August 2026",
+  "Fe 550": {
+    "Bihar": {
+      "8mm": 383,
+      "10mm": 584,
+      "12mm": 828,
+      "16mm": 1472,
+      "20mm": 2300,
+      "25mm": 3593,
+      "discount": 3,
+      "_source_city": "Bihar"
+    },
+    "Jharkhand": {
+      "8mm": 383,
+      "10mm": 584,
+      "12mm": 828,
+      "16mm": 1472,
+      "20mm": 2300,
+      "25mm": 3593,
+      "discount": 3,
+      "_source_city": "Jharkhand"
+    },
+    "West Bengal": {
+      "8mm": 382,
+      "10mm": 583,
+      "12mm": 826,
+      "16mm": 1468,
+      "20mm": 2294,
+      "25mm": 3584,
+      "discount": 4,
+      "_source_city": "West Bengal"
+    },
+    "Odisha": {
+      "8mm": 380,
+      "10mm": 580,
+      "12mm": 822,
+      "16mm": 1461,
+      "20mm": 2283,
+      "25mm": 3567,
+      "discount": 3,
+      "_source_city": "Orissa"
+    },
+    "Madhya Pradesh": {
+      "8mm": 380,
+      "10mm": 580,
+      "12mm": 822,
+      "16mm": 1461,
+      "20mm": 2283,
+      "25mm": 3567,
+      "discount": 3,
+      "_source_city": "MP"
+    },
+    "Chattisgarh": {
+      "8mm": 371,
+      "10mm": 566,
+      "12mm": 802,
+      "16mm": 1426,
+      "20mm": 2228,
+      "25mm": 3480,
+      "discount": 4,
+      "_source_city": "Chattisgarh"
+    },
+    "Jammu": {
+      "8mm": 385,
+      "10mm": 588,
+      "12mm": 834,
+      "16mm": 1483,
+      "20mm": 2317,
+      "25mm": 3619,
+      "discount": 3,
+      "_source_city": "Jammu"
+    },
+    "Kashmir": {
+      "8mm": 417,
+      "10mm": 637,
+      "12mm": 904,
+      "16mm": 1607,
+      "20mm": 2511,
+      "25mm": 3923,
+      "discount": 13,
+      "_source_city": "Kashmir"
+    },
+    "Uttarakhand": {
+      "8mm": 378,
+      "10mm": 576,
+      "12mm": 817,
+      "16mm": 1452,
+      "20mm": 2269,
+      "25mm": 3545,
+      "discount": 3,
+      "_source_city": "Uttarakhand"
+    },
+    "Himachal Pradesh": {
+      "8mm": 385,
+      "10mm": 588,
+      "12mm": 834,
+      "16mm": 1483,
+      "20mm": 2317,
+      "25mm": 3619,
+      "discount": 3,
+      "_source_city": "Himachal"
+    },
+    "Uttar Pradesh": {
+      "8mm": 384,
+      "10mm": 586,
+      "12mm": 831,
+      "16mm": 1477,
+      "20mm": 2308,
+      "25mm": 3606,
+      "discount": 3,
+      "_source_city": "Agra"
+    },
+    "Delhi": {
+      "8mm": 379,
+      "10mm": 578,
+      "12mm": 819,
+      "16mm": 1456,
+      "20mm": 2275,
+      "25mm": 3554,
+      "discount": 3,
+      "_source_city": "Delhi"
+    },
+    "Haryana": {
+      "8mm": 379,
+      "10mm": 578,
+      "12mm": 819,
+      "16mm": 1456,
+      "20mm": 2275,
+      "25mm": 3554,
+      "discount": 4,
+      "_source_city": "Sonipat"
+    },
+    "Rajasthan": {
+      "8mm": 382,
+      "10mm": 583,
+      "12mm": 827,
+      "16mm": 1470,
+      "20mm": 2297,
+      "25mm": 3589,
+      "discount": 3,
+      "_source_city": "Rajasthan"
+    },
+    "Punjab": {
+      "8mm": 377,
+      "10mm": 574,
+      "12mm": 814,
+      "16mm": 1447,
+      "20mm": 2261,
+      "25mm": 3532,
+      "discount": 4,
+      "_source_city": "Punjab (except Chandigarh)"
+    }
+  },
+  "Fe 550D": {
+    "Uttar Pradesh": {
+      "8mm": 386,
+      "10mm": 590,
+      "12mm": 836,
+      "16mm": 1486,
+      "20mm": 2322,
+      "25mm": 3628,
+      "discount": 3,
+      "_source_city": "Agra"
+    },
+    "Delhi": {
+      "8mm": 381,
+      "10mm": 581,
+      "12mm": 824,
+      "16mm": 1465,
+      "20mm": 2289,
+      "25mm": 3576,
+      "discount": 4,
+      "_source_city": "Delhi"
+    },
+    "Haryana": {
+      "8mm": 381,
+      "10mm": 581,
+      "12mm": 824,
+      "16mm": 1465,
+      "20mm": 2289,
+      "25mm": 3576,
+      "discount": 3,
+      "_source_city": "Sonipat"
+    },
+    "Rajasthan": {
+      "8mm": 385,
+      "10mm": 587,
+      "12mm": 832,
+      "16mm": 1479,
+      "20mm": 2311,
+      "25mm": 3611,
+      "discount": 3,
+      "_source_city": "Rajasthan"
+    },
+    "Punjab": {
+      "8mm": 379,
+      "10mm": 578,
+      "12mm": 819,
+      "16mm": 1456,
+      "20mm": 2275,
+      "25mm": 3554,
+      "discount": 3,
+      "_source_city": "Punjab (except Chandigarh)"
+    },
+    "Bihar": {
+      "8mm": 385,
+      "10mm": 588,
+      "12mm": 833,
+      "16mm": 1481,
+      "20mm": 2314,
+      "25mm": 3615,
+      "discount": 4,
+      "_source_city": "Bihar"
+    }
+  }
+}
